@@ -2,11 +2,13 @@
 
 Visual references for better Roblox experiences.
 
-A categorized media library for Roblox developers, designers, animators and AI-assisted workflows. This repository contains image and video files only.
+A categorized media library for Roblox developers, designers, animators and AI-assisted workflows. This repository contains image, video and audio files only.
 
 ## Contents
 
-11,993 image files (PNG, JPG, WebP, GIF) and 5 MP4 clips, of which 11,836 are unique by content. Some references are cross-listed in more than one folder so they are easier to find, so the file count is higher than the unique-artwork count.
+11,993 image files (PNG, JPG, WebP, GIF), 5 MP4 clips and 2,210 MP3 sound effects, of which 14,046 are unique by content. Some references are cross-listed in more than one folder so they are easier to find, so the file count is higher than the unique count.
+
+The sound effects in sfx/cc0-audio are short clips released under CC0, sorted by type: interface clicks, rewards, impacts, whooshes, explosions, magic, swords, footsteps, doors, power-ups and more.
 
 | Folder | Best for | Files |
 | :--- | :--- | ---: |
@@ -18,7 +20,7 @@ A categorized media library for Roblox developers, designers, animators and AI-a
 | ui-styles | Menu, HUD, shop and layout examples | 153 |
 | vfx | Particles, impact effects and motion | 30 |
 | animations | Motion, action and interface animation | 16 |
-| sfx | Visual timing cues for sound and interaction | 12 |
+| sfx | Sound effects plus visual timing cues for sound and interaction | 2,222 |
 | logos | Game branding and icon composition | 10 |
 | thumbnails | Game cover composition and marketing | 10 |
 | cutscenes | Framing, camera and storytelling | 6 |
