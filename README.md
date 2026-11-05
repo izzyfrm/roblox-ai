@@ -6,7 +6,7 @@ A categorized media library for Roblox developers, designers, animators and AI-a
 
 ## Contents
 
-11,993 image files (PNG, JPG, WebP, GIF), 5 MP4 clips and 2,210 MP3 sound effects, of which 14,046 are unique by content. Some references are cross-listed in more than one folder so they are easier to find, so the file count is higher than the unique count.
+12,165 image files (PNG, JPG, WebP, GIF), 5 MP4 clips and 2,210 MP3 sound effects, of which 14,218 are unique by content. Some references are cross-listed in more than one folder so they are easier to find, so the file count is higher than the unique count.
 
 The sound effects in sfx/cc0-audio are short clips released under CC0, sorted by type: interface clicks, rewards, impacts, whooshes, explosions, magic, swords, footsteps, doors, power-ups and more.
 
@@ -17,6 +17,7 @@ The sound effects in sfx/cc0-audio are short clips released under CC0, sorted by
 | previews | Quick inspiration by category | 709 |
 | visual-refs | Sports, studs UI, icon and interface references | 420 |
 | style-refs | Mockups and visual direction | 295 |
+| motion-references | Animation and cutscene frame sequences | 172 |
 | ui-styles | Menu, HUD, shop and layout examples | 153 |
 | vfx | Particles, impact effects and motion | 30 |
 | animations | Motion, action and interface animation | 16 |
